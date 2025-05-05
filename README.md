@@ -11,7 +11,7 @@
 
 #### Change the whisper model
 
-1. Download desired model locally from <a>https://github.com/openai/whisper/blob/ba3f3cd54b0e5b8ce1ab3de13e32122d0d5f98ab/whisper/__init__.py#L17</a><br>
+1. Download desired model to local from <a>https://github.com/openai/whisper/blob/ba3f3cd54b0e5b8ce1ab3de13e32122d0d5f98ab/whisper/__init__.py#L17</a><br>
 ![image](https://github.com/user-attachments/assets/2feb3288-6fd5-4f4e-85c8-f203fdda01e0)
 
 2. Store the .pt file in directory **\Sentiment Analysis from Voice\whisper-models**
